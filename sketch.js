@@ -139,5 +139,3 @@ function bolinhaNaoFicaPresa(){
     XBolinha = 23
     }
 }
-
-
